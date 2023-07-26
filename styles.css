@@ -24,7 +24,7 @@ main{
 main>div{
 	margin-inline:5px;
 }
-.first{
+.latest-news-section{
 	display:flex;
 	flex-direction:column;
 	justify-content:space-around;
@@ -46,7 +46,7 @@ main>div{
 	border-radius:20px;
 	
 }
-.third{
+.pictorial-news-section{
 	overflow:hidden;
 	display:flex;
 	flex-wrap:wrap;
@@ -59,7 +59,7 @@ main>div{
 	border-radius:20px;
 	
 }
-.third img{
+.pictorial-news-section img{
 	height:20vh;
 }
 .images{
